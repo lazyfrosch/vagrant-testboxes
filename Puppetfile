@@ -31,4 +31,7 @@ end
 puppetlabs 'mysql',  '3.3.0'
 puppetlabs 'stdlib', '4.3.2'
 
+# other
+github 'saz', 'locales', 'v2.2.0'
+
 # vi: foldmethod=marker :
